@@ -405,3 +405,7 @@ Para la 5 ocurre lo mismo que en la anterior:
 ![Pos5](https://user-images.githubusercontent.com/49238418/196853695-c563c7f8-e18a-4800-bc7e-a16e94001065.png)
 
 
+## CONCLUSIONES
+- El ambiente de programacion de ROS prmite comunicar codigos desarrollados previamente para solucionar matrices orientadas a sistemas roboticos y codigo comunmente usado, facilitando asi el desarrollo de còdigo de control de movimiento en ròbotica.
+- El mètodo de convertir un robot en un modelo matemàtico matricial de Denavit-Hartenberg ofrece un algoritmo facil de seguir  resumiendolo en rotaciones y traslaciones para pasar de una articulaciòn  a otra; necesitando una curva de aprendizaje por parte del estudiante resulta un mètodo muy intuitivo.
+-    
