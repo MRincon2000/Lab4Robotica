@@ -1,4 +1,14 @@
-# Laboratorio 4 Robótica- Cinemática Directa con robot Phantom x Pincher
+
+
+
+<h1 align="center"> Universidad Nacional de Colombia <br>
+Facultad de Ingeniería <br>
+Depto. de Ing. Mecánica y Mecatrónica <br>
+Robótica <br>
+Laboratorio 4 - 4 Robótica- Cinemática Directa con robot Phantom x Pincher <br>
+Miguel Angel Rincón Otálora <br>
+Robinson Ordúz </h1>
+## introducciòn
 La cinemática directa usa ecuaciones cinemáticas para determinar la posición del actuador 
 final a partir de la longitud de los eslabones y el ángulo que forman en sus articulaciones.
 En una cadena cinemática serial como el robot Pincher, un conjunto de vectores de posición siempre 
